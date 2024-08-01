@@ -1,8 +1,7 @@
 <h1 align="left">Hi 👋, I'm Avinash Monteiro</h1>
 
 <p align="left">
-- 🌱 I’m currently learning how to connect various technologies in full stack development
-
+- 🌱 I’m currently expanding my expertise in integrating various technologies for full stack development.
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanoukhavi&label=Profile%20views&color=0e75b6&style=flat" alt="shanoukhavi" /> </p>
@@ -22,7 +21,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;
-    <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shanoukhavi&show_icons=true&locale=en" alt="shanoukhavi" /></p>
+    <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shanoukhavi&show_icons=true&locale=en" alt="Avinash Monteiro stats" /></p>
 </p>
 
 <h3 align="left">Frameworks:</h3>
@@ -47,4 +46,4 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shanoukhavi&" alt="shanoukhavi" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shanoukhavi&" alt="Avinash Monteiro stats" /></p>
