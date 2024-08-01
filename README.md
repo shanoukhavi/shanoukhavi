@@ -28,7 +28,6 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,7 +43,7 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
 </p>
 
