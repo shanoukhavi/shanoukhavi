@@ -44,8 +44,6 @@
 <p align="left">
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/c_scale,w_600/v1690105540/website/v2/logos/cloudinary_logo_blue.png" alt="Cloudinary" width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stripe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" alt="Stripe" width="60" height="60"/> </a>
-</p>
+
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shanoukhavi&" alt="Avinash Monteiro stats" /></p>
