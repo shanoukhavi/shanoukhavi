@@ -40,10 +40,17 @@
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/60/000000/visual-studio-code-2019.png" alt="VS Code" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=shanoukhavi&show_icons=true&locale=en" alt="shanoukhavi" /></p>
+<h3 align="left">Unique Features:</h3>
+<p align="left">
+    - 💡 Developed advanced full-stack projects integrating diverse technologies.<br>
+    - 🚀 Experienced in building and deploying scalable web applications.<br>
+    - 🔧 Proficient in database management with both SQL and NoSQL databases.<br>
+    - 🔒 Implemented robust authentication and security features in various applications.<br>
+    - 🎨 Skilled in creating intuitive and user-friendly interfaces with modern frameworks.<br>
+</p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shanoukhavi&" alt="shanoukhavi" /></p>
