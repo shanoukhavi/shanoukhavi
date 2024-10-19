@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/avinash-monteiro-a78111241/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avinash Monteiro" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.leetcode.com/4nm21cs040" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4nm21cs040" height="60" width="60" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ 
 </p>
 
 <h3 align="left">Languages:</h3>
