@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Avinash Monteiro</h1>
 
 <p align="left">
-- 🌱 I’m currently expanding my expertise in integrating various technologies for full stack development.
+- 🌱 I’m currently expanding my expertise in integrating various technologies for ??
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanoukhavi&label=Profile%20views&color=0e75b6&style=flat" alt="shanoukhavi" /> </p>
